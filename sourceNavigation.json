@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "name": "直播",
+      "pic": "https://c8.alamy.com/zooms/9/db29dd49d9ac4924aba958a47408c6f3/2gecy35.jpg",
+      "webUrl": "https://raw.githubusercontent.com/l1007/-/freed/t1.txt",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "直播1",
+      "pic": "https://logos.flamingtext.com/Name-Logos/Lek-design-sketch-name.png",
+      "webUrl": "https://raw.githubusercontent.com/l1007/-/freed/1.m3u",
+      "type": "m3u",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "直播2",
+      "pic": "https://www.logolynx.com/images/logolynx/7d/7de41f6a8c2c746a5583d1df9191b118.png",
+      "webUrl": "https://raw.githubusercontent.com/l1007/-/freed/2.m3u",
+      "type": "m3u",
+      "subTitle": "",
+      "click": true,
+      "autoNext": true,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    }
+  ]
+}
