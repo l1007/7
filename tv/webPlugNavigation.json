@@ -2,7 +2,7 @@
 {
     "data":[
         {
-      "name": "大师兄",
+      "name": "555",
       "pic": "https://img.kuaiyong.com/pkfile/202106/17113507vr6c.png",
       "type": "webPlug",
       "ads": "",
@@ -12,7 +12,7 @@
       "webPlus": {
         "search_url": "https://www.555dy6.com/index.php/vod/search.html?wd={kw}",
         "nav_url": "https://www.555dy6.com/vodshow/navCate--------navPage---.html",
-        "web_name": "大师兄影视",
+        "web_name": "555",
 		"search":false,
         "navHtml": {
           "name": [
@@ -90,7 +90,7 @@
       }
     },
 	{
-      "name": "555",
+      "name": "大师兄",
       "pic": "https://img.zjjcts.com/uploadimg/ico/2021/0113/1610524230897244.png",
       "type": "webPlug",
       "ads": "",
@@ -100,20 +100,56 @@
       "webPlus": {
         "search_url": "https://dsxys.com/sb/ke7nhZe3c1{kw}-.html",
         "nav_url": "https://dsxys.com/type/navCate-navPage.html",
-        "web_name": "555电影",
+        "web_name": "大师兄",
 		"search":false,
         "navHtml": {
           "name": [
-            "电影",
-            "电视剧",
-            "动漫",
-            "综艺"
+            "动作片",
+            "喜剧片",
+            "爱情片",
+            "科幻片",
+            "奇幻片",
+            "恐怖片",
+            "剧情片",
+            "战争片",
+            "纪录片",
+            "悬疑片",
+            "冒险片",
+            "犯罪片",
+            "国产剧",
+            "港台剧",
+            "日韩剧",
+            "欧美剧",
+            "海外剧",
+            "大陆综艺",
+            "港台综艺",
+            "日韩综艺",
+            "欧美综艺",
+            "动漫"
           ],
           "cate": [
-            "1",
-            "2",
-            "4",
-            "3"
+            "6",
+            "7",
+            "8",
+            "9",
+            "38",
+            "10",
+            "11",
+            "12",
+            "22",
+            "44",
+            "45",
+            "46",
+            "13",
+            "14",
+            "15",
+            "16",
+            "23",
+            "29",
+            "30",
+            "31",
+            "32",
+            "4"
           ],
           "page": "1"
         },
