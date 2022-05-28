@@ -2,10 +2,16 @@
   "data": [
     {
       "id": 1,
-      "name": "okjx",
+      "name": "vip",
       "ad": "no",
-      "url": "https://okjx.cc/?url="
+      "url": "http://api.vip123kan.vip/?url="
     },{
+      "id": 1,
+      "name": "7k",
+      "ad": "no",
+      "url": "https://jx.7kjx.com/?url="
+    },
+    {
       "id": 1,
       "name": "blbo",
       "ad": "no",
@@ -13,21 +19,15 @@
     },
     {
       "id": 1,
-      "name": "Pro",
-      "ad": "no",
-      "url": "http://api.vip123kan.vip/?url="
-    },
-    {
-      "id": 1,
-      "name": "qq",
-      "ad": "no",
-      "url": "https://json.pangujiexi.com:12345/json.php?url="
-    },
-    {
-      "id": 1,
       "name": "parwix",
       "ad": "no",
       "url": "https://jx.parwix.com:4433/player/?url="
+    },
+    {
+      "id": 1,
+      "name": "okjx",
+      "ad": "no",
+      "url": "https://okjx.cc/?url="
     },
     {
       "id": 1,
